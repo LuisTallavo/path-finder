@@ -1,4 +1,6 @@
-# Path Finding Visualizer! Check it out here: https://luistallavo.github.io/path-finder/
+# Path Finding Visualizer!
+
+Check it out here: https://luistallavo.github.io/path-finder/
 
 An interactive visualization tool for exploring pathfinding algorithms. Built as a personal learning project to deepen my understanding of fundamental path finding algorithms and data structures.
 
