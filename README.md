@@ -2,6 +2,8 @@
 
 Check it out here: https://luistallavo.github.io/path-finder/
 
+<img width="1814" height="948" alt="image" src="https://github.com/user-attachments/assets/e27f6b09-a20c-4fd5-a162-d4990e5fa192" />
+
 An interactive visualization tool for exploring pathfinding algorithms. Built as a personal learning project to deepen my understanding of fundamental path finding algorithms and data structures.
 
 This project was built to gain hands-on experience with:
